@@ -5,5 +5,5 @@
 - 🌱 I’m learning - Typescript
 - 👯 I’m looking to collaborate on - Blockchain Web3 Projects
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyo)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
