@@ -15,16 +15,5 @@ Links
 - Main Website - https://darkmagick.netlify.app/
 - Smart Contract - https://bscscan.com/token/0x6F89660fEf8B6a03a41E5F3d0306645BE2469eFE
 
----
-
-### **Recall Finance** (2021) — **ERC-20**
-- DeFi-oriented token project deployed on Ethereum  
-- Worked on smart contract deployment, liquidity mechanics, and explorer verification
-- 200+ on-chain transfers  
-
-Links
-- Main Website - https://recallfinance.netlify.app/
-- Smart Contract - https://etherscan.io/token/0x02614aeb11cfbffdb68bbee50a498ae947181dae
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
