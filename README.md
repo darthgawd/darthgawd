@@ -6,7 +6,7 @@
 ### **Dark Magick** (2021) — **BEP-20**
 - NFT-based metaverse and play-to-earn project on Binance Smart Chain  
 - Integrated token rewards, NFT mechanics, and early metaverse concepts  
-- Worked on token deployment, reward structures, and wallet compatibility
+- Worked on token deployment and reward structures.
 - Achieved **9,000+ on-chain transfers via PancakeSwap**, real user activity and liquidity usage
 - Listed on CoinMarketCap and CoinGecko
 
